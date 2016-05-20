@@ -1,0 +1,51 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdftex 2016.5.20)  20 MAY 2016 11:44
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+! Undefined control sequence.
+l.1 \documentclass
+                  {article}
+? 
+! Undefined control sequence.
+l.2 \usepackage
+               [utf8]{inputenc}
+? 
+! Undefined control sequence.
+l.4 \title
+          {test}
+? 
+! Undefined control sequence.
+l.5 \author
+           {ljwscu }
+? 
+! Undefined control sequence.
+l.6 \date
+         {May 2016}
+? 
+! Undefined control sequence.
+l.7 \usepackage
+               {natbib}
+? 
+! Undefined control sequence.
+l.8 \usepackage
+               {graphicx}
+? 
+! Undefined control sequence.
+l.11 \begin
+           {document}
+? 
+! Undefined control sequence.
+l.13 \section
+             {Introduction}
+? 
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] )</usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on main.pdf (1 page, 17792 bytes).
+PDF statistics:
+ 12 PDF objects out of 1000 (max. 8388607)
+ 7 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
