@@ -6,9 +6,3 @@ edit:
 	vim main.tex
 log:
 	tail -f main.log
-add:
-	git add —A
-commit:
-	git commit -m "`date`"
-push:
-	git push -u origin master
